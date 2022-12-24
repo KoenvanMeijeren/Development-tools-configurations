@@ -1,0 +1,36 @@
+com.unger1984.npmdependencychecker
+lermitage.intellij.extratci
+com.mroche.JsonHelper
+Key Promoter X
+org.jetbrains.settingsRepository
+dev.meanmail.plugin.nginx-intellij-plugin
+uk.co.ben-gibson.remote.repository.mapper
+ski.chrzanow.foldableprojectview
+org.jetbrains.plugins.go-template
+Statistic
+com.intellij.properties
+String Manipulation
+HighlightBracketPair
+org.igu.plugins.bettercomments
+com.intellij.aqua.selenium
+app.teamhub
+com.godwin.json.parser
+com.intellij.properties.bundle.editor
+mobi.hsz.idea.gitignore
+com.intellij.ideolog
+org.intellij.plugins.postcss
+com.pixelperfect.gitlab-ci
+com.intellij.kubernetes
+com.dmarcotte.handlebars
+NEON support
+com.aurimasniekis.phppsr4namespacedetector
+com.clutcher.comments_highlighter
+com.kalessil.phpStorm.phpInspectionsEA
+de.espend.idea.php.toolbox
+org.masamotod.idea.Drupal8NamespaceDetector
+de.espend.idea.php.annotation
+ru.adelf.idea.dotenv
+de.espend.idea.php.phpunit
+fr.adrienbrault.idea.symfony2plugin
+de.espend.idea.php.drupal
+zielu.gittoolbox

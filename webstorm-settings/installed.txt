@@ -1,0 +1,12 @@
+XPathView
+com.intellij.properties
+com.mroche.JsonHelper
+com.jetbrains.twig
+String Manipulation
+com.godwin.json.parser
+ski.chrzanow.foldableprojectview
+mobi.hsz.idea.gitignore
+com.intellij.aqua.selenium
+ru.adelf.idea.dotenv
+me.mbolotov.cypress
+com.unger1984.npmdependencychecker
